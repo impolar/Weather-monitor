@@ -1,0 +1,12 @@
+C:\Projekti3\EmbeddedSystemProject\bin\Debug\EmbeddedSystemProject.exe.config
+C:\Projekti3\EmbeddedSystemProject\bin\Debug\EmbeddedSystemProject.exe
+C:\Projekti3\EmbeddedSystemProject\bin\Debug\EmbeddedSystemProject.pdb
+C:\Projekti3\EmbeddedSystemProject\bin\Debug\MySql.Data.dll
+C:\Projekti3\EmbeddedSystemProject\bin\Debug\MySql.Data.xml
+C:\Projekti3\EmbeddedSystemProject\obj\Debug\EmbeddedSystemProject.csprojResolveAssemblyReference.cache
+C:\Projekti3\EmbeddedSystemProject\obj\Debug\EmbeddedSystemProject.Form1.resources
+C:\Projekti3\EmbeddedSystemProject\obj\Debug\EmbeddedSystemProject.Properties.Resources.resources
+C:\Projekti3\EmbeddedSystemProject\obj\Debug\EmbeddedSystemProject.csproj.GenerateResource.Cache
+C:\Projekti3\EmbeddedSystemProject\obj\Debug\EmbeddedSystemProject.csproj.CoreCompileInputs.cache
+C:\Projekti3\EmbeddedSystemProject\obj\Debug\EmbeddedSystemProject.exe
+C:\Projekti3\EmbeddedSystemProject\obj\Debug\EmbeddedSystemProject.pdb
